@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37231
     wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42407#Misrepresentative-Women
 gutenberg_issued: '2013-03-24'
 gutenberg_type: Text
 identifiers:
