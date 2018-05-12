@@ -1,0 +1,46 @@
+_repo: Misrepresentative-Women_42407
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Groesbeck, Dan Sayre
+    alias: Grosbeck, Dan Sayre
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '7498'
+    url: http://www.gutenberg.org/2009/agents/7498
+covers:
+- cover_type: archival
+  image_path: 42407-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Graham, Harry
+    aliases:
+    - Streamer, Col. D.
+    - Col. D. Streamer
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '37231'
+    url: http://www.gutenberg.org/2009/agents/37231
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
+description: ''
+gutenberg_issued: '2013-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42407'
+  lccn: 06035718
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Nonsense verses'
+- !lcsh 'Humorous poetry'
+- !lcsh 'Biographical poetry'
+tableOfContents: Publishers' Preface -- Eve -- Lady Godiva -- Miss Marie Corelli --
+  Mrs. Mary Baker Eddy -- Mrs. Grundy -- Mrs. Christopher Columbus -- Dame Rumor --
+  The Cry of the Children -- The Cry of the Elders -- An Epithalamium -- The Self-Made
+  Father to His Ready-Made Son -- The Author to His Hostess -- On the Decline of Gentility
+  Among the Young -- “Lochinvar” -- Abbreviation's Artful Aid -- Author's Aftword.
+title: Misrepresentative Women
+url: http://www.gutenberg.org/ebooks/42407
